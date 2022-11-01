@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @elementiium
-- 👀 I’m interested in software development
-- 🌱 I’m currently working on a Game Project.
+- 👋 Hi, I’m @zircxnium
+- 👀 I’m interested in software & game development
+- 🌱 I’m currently working on a Unreal Engine Project.
 
 <!---
 elementiium/elementiium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
